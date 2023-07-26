@@ -1,0 +1,10 @@
+* clos-diff
+
+Library to create differences of CLOS objects
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/krzysz00/clos-diff.git   |
+| commit  | d96473f  |
+| systems | clos-diff |
+|---------+-------------------------------------------|
+
